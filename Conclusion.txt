@@ -2,5 +2,19 @@ FROM QUERY-1
 WHICH IS THE MOST PREFERRED GENRE? (to know this we can check the most sold tracks of each genre)
 From the results we can conclude that Rock is the most popular one with most sold tracks ,thats is 17.
 Then comes Jazz and Metal both with 2 tracks sold and lastly Alternative & Punk with 1 sold track.
+THE INSIGHT HELPS US TO UNDERSTAND CUSTOMER CHOICES AND INTERSTS.
 
+FROM QUERY-2
+WHAT IS THE TOTAL SALES BY EACH GENRE? (Aggregate Total sales for each Genre)
+From the results we conclude that Rock has most sales of $16.83
+THE INSIGHT HELPS US TO UNDERSTAND ABOUT CUSTOMER PREFRENCES AND THE GENRE IN WHICH WE CAN INVEST MORE TO INCREASE PROFIT.
 
+FROM QUERY-3
+WHAT IS THE TOTAL SALES MADE BY EACH MENTIONED COUNTRY AND ALSO SALES MADE?
+USA has Highest sales of $28.71 with 1614 tracks sold. And Norway has least sales with 16 tracks sold.
+THIS HELPS US TO UNDERSTAND ABOUT COUNTRY WHERE WE CAN PROMOTE MORE TO INCREASE PROFITS AND EVEN ORGANIZE RELATED GENRE CONCERTS.
+
+FROM QUERY-4
+WHICH IS THE MOST POPULAR ALBUM EVER SOLD?(count solds made by each album)
+We can say that Album 1 and Album 5 are the most popukar choice.
+THIS WILL HELP US UNDERTSAND THE ARTISTS WHICH ARE POPULAR AND MAKE THEM THE BRANDING AMBASSADOR.
