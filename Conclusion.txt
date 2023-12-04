@@ -1,0 +1,6 @@
+FROM QUERY-1
+WHICH IS THE MOST PREFERRED GENRE? (to know this we can check the most sold tracks of each genre)
+From the results we can conclude that Rock is the most popular one with most sold tracks ,thats is 17.
+Then comes Jazz and Metal both with 2 tracks sold and lastly Alternative & Punk with 1 sold track.
+
+
